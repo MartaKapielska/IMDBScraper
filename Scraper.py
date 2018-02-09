@@ -76,3 +76,4 @@ for x in range(0, movie_count_limit):
     title = get_movie_title(movie_link)[:-1].replace("\\.", "")
     filename = generate_file_name(title, 'action', x)
     save_to_file(get_movie_summary(movie_link), filename)
+
