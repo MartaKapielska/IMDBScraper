@@ -1,4 +1,4 @@
-# Synpases Movies Analysis
+# Movie synopses analysis
 
 ***
 
